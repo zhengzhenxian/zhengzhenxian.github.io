@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Zhenxian Zheng"
+description              : "Ph.D. Candidate in Computer Science, The University of Hong Kong. "
 repository               : "zhengzhenxian/zhengzhenxian.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zhengzhenxian"
+  github           : "zhengzhenxian"
   google_plus      :
   keybase          :
   instagram        :
