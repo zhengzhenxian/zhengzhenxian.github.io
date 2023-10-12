@@ -19,9 +19,9 @@ redirect_from:
 
 I work at L3 Bioinformatics Limited as a senior research scientist in Hong Kong now. I am now working on in area of bioinformatics algorithm, deep learning, and genomics.
 
-I received my Ph.D. degree from the [Department of Computer Science, the University of Hong Kong](https://www.cs.hku.hk/) in September 2023, supervised by Prof. [Ruibang Luo](http://bio8.cs.hku.hk/). Prior to that, I received my M. Eng. and B. Eng. degree in Software Engineering at [School of Computer Science and Engineering, Sun Yat-sen University](https://cse.sysu.edu.cn/).
+I received my Ph.D. degree from the [Department of Computer Science, the University of Hong Kong](https://www.cs.hku.hk/) in September 2023, supervised by Prof. [Ruibang Luo](http://www.bio8.cs.hku.hk/). Prior to that, I received my M. Eng. and B. Eng. degree in Software Engineering at [School of Computer Science and Engineering, Sun Yat-sen University](https://cse.sysu.edu.cn/).
 
-My research interest includes germline variant calling, somatic variant calling, third generation sequencing analysis, etc. I have published 10+ peer reviewed papers in peer-reviewed journals and conferences, including Nature Computational Science, Briefings in Bioinformatics, and BMC Bioinformatics.
+My research interest includes variant calling, somatic variant detection, third generation sequencing data analysis, etc. I have published 10+ papers in peer-reviewed journals and conferences, including Nature Computational Science, Briefings in Bioinformatics, and BMC Bioinformatics.
 
 
 # 🔥 News
