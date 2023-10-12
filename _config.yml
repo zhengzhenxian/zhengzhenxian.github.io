@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenxian Zheng"
-description              : "Bioinformatics, Deep Learning"
+description              : "Bioinformatics, Deep Learning, Data Science"
 repository               : "zhengzhenxian/zhengzhenxian.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhenxian Zheng"
   avatar           : "images/profile.png"
-  bio              : "Ph.D. Candidate in Computer Science, The University of Hong Kong"
+  bio              : "Senior Research Scientist. PhD in Computer Science, The University of Hong Kong"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : # "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
