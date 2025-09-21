@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at L3 Bioinformatics Limited as a senior research scientist in Hong Kong now. I am currently actively involved in the field of bioinformatics algorithm development, deep learning, and genomics research. I have experience coding in Python, C, and C++ for my projects. Feel free to visit my [GitHub page](https://github.com/zhengzhenxian) for details.
+I am currently actively involved in the field of bioinformatics algorithm development, deep learning, and genomics research. I have experience coding in Python, C, and C++ for my projects. Feel free to visit my [GitHub page](https://github.com/zhengzhenxian) for details.
 
 I received my Ph.D. degree from the [Department of Computer Science, the University of Hong Kong](https://www.cs.hku.hk/) in September 2023, supervised by Prof. [Ruibang Luo](http://www.bio8.cs.hku.hk/). Prior to that, I received my M. Eng. and B. Eng. degree in Software Engineering at [School of Computer Science and Engineering, Sun Yat-sen University](https://cse.sysu.edu.cn/).
 
@@ -25,7 +25,6 @@ My research interest includes variant calling, somatic variant detection, third-
 
 
 # 🔥 News
-- 2023.10 &nbsp;🎉🎉 I joined L3 Bioinformatics Limited as a senior research scientist. 
 - 2023.09 &nbsp;🎉🎉 I graduated from the Department of Computer Science, the University of Hong Kong. 
 - 2023.08: &nbsp;🎉🎉 A preprint describing ClairS's algorithms and results is at [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.17.553778v1).
 - 2023.05: &nbsp;🎉🎉 ClairS was supported as an official somatic small variant caller tool by Oxford Nanopore Technologies, link [here](https://labs.epi2me.io/colo-2023.05/).
