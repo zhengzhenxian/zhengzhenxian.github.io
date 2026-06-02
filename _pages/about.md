@@ -74,6 +74,7 @@ Please check my Google Scholar for all publications [here](https://scholar.googl
 </ul>
 
 # 💬 Presentations
+- <em>2025.12</em>, A deep learning-based small variant caller for long-read RNA sequencing data. GIW/ISCB-Asia 2025, Hong Kong, China.
 - <em>2024.10</em>, ClairS: a deep-learning method for long-read somatic small variant calling. APBJC 2024, Okinawa, Japan.
 - <em>2023.04</em>, Accurate haplotype-aware long-read somatic variant calling using deep learning-based synthetic data learning. RECOMB-SEQ 2023, Istanbul, Turkey.
 - <em>2020.05</em>, Claire: Clair-extended to support full alignment as input to a deep neural network for more accurate germline variant calling in low complexity genome regions. RECOMB-SEQ 2020, Padua, Italy.
