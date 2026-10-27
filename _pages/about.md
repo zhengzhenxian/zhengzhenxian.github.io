@@ -85,3 +85,11 @@ Please check my Google Scholar for all publications [here](https://scholar.googl
 # 💻 Internships
 - <em>2018.05 - 2018.09</em>, Summer intern, Intelligent Recommendation Center, Tencent.
 - <em>2017.06 - 2017.09</em>, Research intern, Medical Image Group, Sun Yat-sen University Cancer Center.
+
+<span class='anchor' id='service'></span>
+
+# 🔍 Service
+
+Associate Editor of Frontiers in Bioinformatics.
+
+Reviewer for journals and conferences, including Nature Communications, Communications Biology, GigaScience, Genome Research, Bioinformatics, Genomics, Proteomics &amp; Bioinformatics, BMC Genomics, Briefings in Bioinformatics, BMC Bioinformatics, PLOS ONE, Scientific Reports, PeerJ, ISMB, ECCB, RECOMB, NeurIPS, ACM-BCB, BIBM, etc.
