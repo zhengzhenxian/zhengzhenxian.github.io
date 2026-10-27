@@ -90,6 +90,5 @@ Please check my Google Scholar for all publications [here](https://scholar.googl
 
 # 🔍 Service
 
-Associate Editor of Frontiers in Bioinformatics.
-
-Reviewer for journals and conferences, including Nature Communications, Communications Biology, GigaScience, Genome Research, Bioinformatics, Genomics, Proteomics &amp; Bioinformatics, BMC Genomics, Briefings in Bioinformatics, BMC Bioinformatics, PLOS ONE, Scientific Reports, PeerJ, ISMB, ECCB, RECOMB, NeurIPS, ACM-BCB, BIBM, etc.
+- Associate Editor of Frontiers in Bioinformatics.
+- Reviewer for journals and conferences, including Nature Communications, Communications Biology, GigaScience, Genome Research, Bioinformatics, Genomics, Proteomics &amp; Bioinformatics, BMC Genomics, Briefings in Bioinformatics, BMC Bioinformatics, PLOS ONE, Scientific Reports, PeerJ, ISMB, ECCB, RECOMB, NeurIPS, ACM-BCB, BIBM, etc.
